@@ -1,7 +1,7 @@
 package pl.malek;
 
 /**
- * Hello world!
+ * Inna zmiana
  *
  */
 public class App 
